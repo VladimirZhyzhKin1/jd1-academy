@@ -6,6 +6,7 @@
  Сравните скорость их выполнения. Выведите сравнение на экран.*/
 
 public class Task31 {
+    
     public static void main(String[] args) {
         long startTime;
         long endTime;
